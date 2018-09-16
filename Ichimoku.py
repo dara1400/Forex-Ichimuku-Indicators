@@ -1,3 +1,7 @@
+#Ichimoku Indicator pandas
+#Hamzeh Asgharnezhad dara1400@gmail.com
+#Thanks to Amir Tashi and Arash Soltani
+
 import pandas as pd
 import numpy as np
 
