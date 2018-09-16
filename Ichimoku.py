@@ -11,6 +11,8 @@ import numpy as np
     4- Senkou Span B = (Highest High + Lowest Low) / 2, for the past 52 periods, plotted 26 periods ahead
 """
 
+#****************************************************************************************************
+
 def Ichimoku(Data):
 
     _data = Data[:] # A copy to prevent change on origital DataFram
